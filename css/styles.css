@@ -1,0 +1,59 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.content1 {
+  position: relative;
+  text-align: center;
+  background-image: url("/home/moringa/Desktop/Ping-Pong/zzz.jpeg");
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+.content1 h1 {
+  padding: 30px;
+  font-size: 70px;
+}
+
+.content2 {
+  position: relative;
+  float: left;
+  text-align: left;
+  margin-top: 30px;
+  padding: 10px;
+  width: 250px;
+  height: 900px;
+  background-color: #4CAF50;
+}
+
+.content2 p {
+  color: #FFD180;
+}
+
+.content2 #p {
+  color: white;
+}
+
+.content3 {
+  position: relative;
+  float: left;
+  width: auto;
+  margin: 0px auto;
+  padding: 70px;
+}
+
+.content3 ol {
+  padding-left: 40px;
+}
+
+.button {
+  border: none;
+  background-color: darkgrey;
+  padding: 5px 10px;
+  border-radius: 2px;
+}
+
+form {
+  display: inline-block;
+}
