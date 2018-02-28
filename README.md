@@ -19,7 +19,7 @@ I set up my DOM using HTML5
 I styled it using CSS3
 I made the page interactive to the user by using Javascript
 
-####Liscence
-MIT
+##Liscence
+MIT liscence
 
 copyright (c) 2018.
